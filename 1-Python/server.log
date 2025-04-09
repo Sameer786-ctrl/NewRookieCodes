@@ -1,0 +1,709 @@
+2025-04-03 15:48:29 WARNING Server crash detected:restarting
+2025-04-03 15:48:31 ERROR High memory usage detected
+2025-04-03 15:48:33 INFO User logges in : user123
+2025-04-03 15:48:35 CRITICAL High memory usage detected
+2025-04-03 15:48:37 CRITICAL Databse connection failed:timeout
+2025-04-03 15:48:39 INFO High memory usage detected
+2025-04-03 15:48:41 ERROR High memory usage detected
+2025-04-03 15:48:43 CRITICAL User logged out:user456
+2025-04-03 15:48:45 INFO Server crash detected:restarting
+2025-04-03 15:48:47 INFO Databse connection failed:timeout
+2025-04-03 15:48:49 CRITICAL User logges in : user123
+2025-04-03 15:48:51 INFO User logges in : user123
+2025-04-03 15:48:53 INFO Server crash detected:restarting
+2025-04-03 15:48:55 WARNING Databse connection failed:timeout
+2025-04-03 15:48:57 CRITICAL Databse connection failed:timeout
+2025-04-03 15:48:59 CRITICAL Server crash detected:restarting
+2025-04-03 15:49:01 ERROR Databse connection failed:timeout
+2025-04-03 15:49:03 INFO Server crash detected:restarting
+2025-04-03 15:49:05 CRITICAL High memory usage detected
+2025-04-03 15:49:07 ERROR User logged out:user456
+2025-04-03 15:49:09 WARNING User logged out:user456
+2025-04-03 15:49:11 INFO File uploaded:report.pdf
+2025-04-03 15:49:13 CRITICAL File uploaded:report.pdf
+2025-04-03 15:49:15 INFO Server crash detected:restarting
+2025-04-03 15:49:17 CRITICAL File uploaded:report.pdf
+2025-04-03 15:49:19 INFO File uploaded:report.pdf
+2025-04-03 15:49:21 ERROR User logged out:user456
+2025-04-03 15:49:23 ERROR User logges in : user123
+2025-04-03 15:49:25 ERROR Databse connection failed:timeout
+2025-04-03 15:49:27 INFO User logged out:user456
+2025-04-03 15:49:29 CRITICAL User logged out:user456
+2025-04-03 15:49:31 INFO User logges in : user123
+2025-04-03 15:49:33 INFO User logged out:user456
+2025-04-03 15:49:35 INFO File uploaded:report.pdf
+2025-04-03 15:49:37 WARNING User logges in : user123
+2025-04-03 15:49:39 CRITICAL Server crash detected:restarting
+2025-04-03 15:49:41 ERROR User logged out:user456
+2025-04-03 15:49:43 INFO Server crash detected:restarting
+2025-04-03 15:49:45 WARNING File uploaded:report.pdf
+2025-04-03 15:49:47 ERROR File uploaded:report.pdf
+2025-04-03 15:49:49 INFO Server crash detected:restarting
+2025-04-03 15:49:51 ERROR Server crash detected:restarting
+2025-04-03 15:49:53 CRITICAL Databse connection failed:timeout
+2025-04-03 15:49:55 INFO User logged out:user456
+2025-04-03 15:49:57 ERROR Server crash detected:restarting
+2025-04-03 15:49:59 INFO Server crash detected:restarting
+2025-04-03 15:50:01 CRITICAL User logged out:user456
+2025-04-03 15:50:03 CRITICAL File uploaded:report.pdf
+2025-04-03 15:50:05 INFO File uploaded:report.pdf
+2025-04-03 15:50:07 ERROR High memory usage detected
+2025-04-03 15:50:09 ERROR User logged out:user456
+2025-04-03 15:50:11 ERROR Databse connection failed:timeout
+2025-04-03 15:50:13 CRITICAL High memory usage detected
+2025-04-03 15:50:15 ERROR File uploaded:report.pdf
+2025-04-03 15:50:17 INFO File uploaded:report.pdf
+2025-04-03 15:50:19 INFO User logges in : user123
+2025-04-03 15:50:21 ERROR User logges in : user123
+2025-04-03 15:50:23 ERROR Databse connection failed:timeout
+2025-04-03 15:50:25 WARNING High memory usage detected
+2025-04-03 15:50:27 ERROR User logges in : user123
+2025-04-03 15:50:29 ERROR User logged out:user456
+2025-04-03 15:50:31 ERROR User logged out:user456
+2025-04-03 15:50:33 ERROR Server crash detected:restarting
+2025-04-03 15:50:35 INFO File uploaded:report.pdf
+2025-04-03 15:50:37 WARNING High memory usage detected
+2025-04-03 15:50:39 CRITICAL User logges in : user123
+2025-04-03 15:50:41 WARNING High memory usage detected
+2025-04-03 15:50:43 INFO User logged out:user456
+2025-04-03 15:50:45 INFO User logges in : user123
+2025-04-03 15:50:47 INFO Databse connection failed:timeout
+2025-04-03 15:50:49 WARNING File uploaded:report.pdf
+2025-04-03 15:50:51 INFO High memory usage detected
+2025-04-03 15:50:53 CRITICAL High memory usage detected
+2025-04-03 15:50:55 CRITICAL Databse connection failed:timeout
+2025-04-03 15:50:57 INFO User logged out:user456
+2025-04-03 15:50:59 CRITICAL Server crash detected:restarting
+2025-04-03 15:51:01 WARNING User logges in : user123
+2025-04-03 15:51:03 ERROR User logged out:user456
+2025-04-03 15:51:05 ERROR High memory usage detected
+2025-04-03 15:51:07 WARNING Server crash detected:restarting
+2025-04-03 15:51:09 ERROR User logged out:user456
+2025-04-03 15:51:11 ERROR User logged out:user456
+2025-04-03 15:51:13 ERROR High memory usage detected
+2025-04-03 15:51:15 WARNING File uploaded:report.pdf
+2025-04-03 15:51:17 WARNING File uploaded:report.pdf
+2025-04-03 15:51:19 CRITICAL Server crash detected:restarting
+2025-04-03 15:51:21 CRITICAL File uploaded:report.pdf
+2025-04-03 15:51:23 INFO File uploaded:report.pdf
+2025-04-03 15:51:25 CRITICAL User logged out:user456
+2025-04-03 15:51:27 ERROR User logged out:user456
+2025-04-03 15:51:29 WARNING Server crash detected:restarting
+2025-04-03 15:51:31 CRITICAL File uploaded:report.pdf
+2025-04-03 15:51:33 WARNING Server crash detected:restarting
+2025-04-03 15:51:35 CRITICAL Databse connection failed:timeout
+2025-04-03 15:51:37 INFO Databse connection failed:timeout
+2025-04-03 15:51:39 CRITICAL Databse connection failed:timeout
+2025-04-03 15:51:43 INFO User logged out:user456
+2025-04-03 15:51:45 CRITICAL User logged out:user456
+2025-04-03 15:51:47 WARNING User logges in : user123
+2025-04-03 15:51:49 WARNING User logges in : user123
+2025-04-03 15:51:51 WARNING High memory usage detected
+2025-04-03 15:51:53 CRITICAL High memory usage detected
+2025-04-03 15:51:55 WARNING User logges in : user123
+2025-04-03 15:51:57 CRITICAL Databse connection failed:timeout
+2025-04-03 15:51:59 ERROR User logged out:user456
+2025-04-03 15:52:01 CRITICAL High memory usage detected
+2025-04-03 15:52:03 ERROR Databse connection failed:timeout
+2025-04-03 15:52:05 WARNING File uploaded:report.pdf
+2025-04-03 15:52:07 WARNING High memory usage detected
+2025-04-03 15:52:09 ERROR User logged out:user456
+2025-04-03 15:52:11 CRITICAL High memory usage detected
+2025-04-03 15:52:13 ERROR Server crash detected:restarting
+2025-04-03 15:52:15 ERROR User logged out:user456
+2025-04-03 15:52:17 ERROR High memory usage detected
+2025-04-03 15:52:19 ERROR Server crash detected:restarting
+2025-04-03 15:52:21 ERROR File uploaded:report.pdf
+2025-04-03 15:52:23 CRITICAL User logges in : user123
+2025-04-03 15:52:25 CRITICAL User logged out:user456
+2025-04-03 15:52:51 ERROR High memory usage detected
+2025-04-03 15:52:53 WARNING Databse connection failed:timeout
+2025-04-03 15:52:55 WARNING User logges in : user123
+2025-04-03 15:52:57 ERROR Server crash detected:restarting
+2025-04-03 15:52:59 ERROR High memory usage detected
+2025-04-03 15:53:01 INFO Server crash detected:restarting
+2025-04-03 15:53:03 CRITICAL Databse connection failed:timeout
+2025-04-03 15:53:05 INFO High memory usage detected
+2025-04-03 15:53:07 INFO Server crash detected:restarting
+2025-04-03 15:53:09 WARNING Databse connection failed:timeout
+2025-04-03 15:53:11 INFO User logged out:user456
+2025-04-03 15:53:13 WARNING User logged out:user456
+2025-04-03 15:53:15 ERROR User logged out:user456
+2025-04-03 16:01:30 INFO User logges in : user123
+2025-04-03 16:01:32 INFO User logges in : user123
+2025-04-03 16:01:34 INFO Databse connection failed:timeout
+2025-04-03 16:01:36 CRITICAL File uploaded:report.pdf
+2025-04-03 16:01:38 ERROR User logged out:user456
+2025-04-03 16:01:40 CRITICAL File uploaded:report.pdf
+2025-04-03 16:01:42 WARNING High memory usage detected
+2025-04-03 16:01:44 INFO User logged out:user456
+2025-06-04/03/25 16:06:59 INFO High memory usage detected
+2025-07-04/03/25 16:07:01 INFO File uploaded:report.pdf
+2025-07-04/03/25 16:07:03 ERROR High memory usage detected
+2025-07-04/03/25 16:07:05 ERROR User logged out:user456
+2025-07-04/03/25 16:07:07 INFO User logged out:user456
+2025-07-04/03/25 16:07:09 INFO User logges in : user123
+2025-07-04/03/25 16:07:11 CRITICAL File uploaded:report.pdf
+2025-07-04/03/25 16:07:13 CRITICAL User logges in : user123
+2025-07-04/03/25 16:07:15 CRITICAL Server crash detected:restarting
+2025-07-04/03/25 16:07:17 CRITICAL User logges in : user123
+2025-07-04/03/25 16:07:19 CRITICAL User logged out:user456
+2025-07-04/03/25 16:07:21 INFO High memory usage detected
+2025-07-04/03/25 16:07:23 CRITICAL Server crash detected:restarting
+2025-07-04/03/25 16:07:25 CRITICAL File uploaded:report.pdf
+2025-04-03 16:27:56 INFO Databse connection failed:timeout
+2025-04-03 16:27:58 CRITICAL User logges in : user123
+2025-04-03 16:28:00 WARNING High memory usage detected
+2025-04-03 16:35:46 ERROR Server crash detected:restarting
+2025-04-03 16:35:48 ERROR User logged out:user456
+2025-04-03 16:35:50 WARNING Server crash detected:restarting
+2025-04-03 16:35:52 CRITICAL File uploaded:report.pdf
+2025-04-03 16:35:55 INFO User logges in : user123
+2025-04-03 16:35:57 INFO Server crash detected:restarting
+2025-04-03 16:35:59 CRITICAL File uploaded:report.pdf
+2025-04-03 16:36:01 WARNING User logged out:user456
+2025-04-03 16:36:03 INFO Server crash detected:restarting
+2025-04-03 16:36:05 CRITICAL User logges in : user123
+2025-04-03 16:36:07 ERROR User logges in : user123
+2025-04-03 16:36:09 ERROR User logged out:user456
+2025-04-03 16:36:11 WARNING Databse connection failed:timeout
+2025-04-03 16:36:13 CRITICAL High memory usage detected
+2025-04-03 16:36:15 WARNING File uploaded:report.pdf
+2025-04-03 16:36:17 INFO User logged out:user456
+2025-04-03 16:36:19 WARNING Server crash detected:restarting
+2025-04-03 16:36:21 CRITICAL High memory usage detected
+2025-04-03 16:36:23 INFO Server crash detected:restarting
+2025-04-03 16:36:25 INFO User logged out:user456
+2025-04-03 16:36:27 CRITICAL User logged out:user456
+2025-04-03 16:36:29 WARNING Server crash detected:restarting
+2025-04-03 16:36:31 CRITICAL Server crash detected:restarting
+2025-04-03 16:36:33 CRITICAL User logged out:user456
+2025-04-03 16:36:35 CRITICAL Server crash detected:restarting
+2025-04-03 16:36:37 CRITICAL User logged out:user456
+2025-04-03 16:36:39 WARNING Server crash detected:restarting
+2025-04-03 16:36:41 INFO User logges in : user123
+2025-04-03 16:36:43 WARNING File uploaded:report.pdf
+2025-04-03 16:36:45 CRITICAL User logges in : user123
+2025-04-03 16:36:47 INFO Databse connection failed:timeout
+2025-04-03 16:36:49 INFO User logges in : user123
+2025-04-03 16:36:51 WARNING File uploaded:report.pdf
+2025-04-03 16:36:53 ERROR Databse connection failed:timeout
+2025-04-03 16:36:55 ERROR Databse connection failed:timeout
+2025-04-03 16:36:57 ERROR Server crash detected:restarting
+2025-04-03 16:36:59 INFO File uploaded:report.pdf
+2025-04-03 16:37:01 WARNING User logged out:user456
+2025-04-03 16:37:03 ERROR User logged out:user456
+2025-04-03 16:37:05 ERROR File uploaded:report.pdf
+2025-04-03 16:37:07 CRITICAL File uploaded:report.pdf
+2025-04-03 16:37:09 INFO High memory usage detected
+2025-04-03 16:37:11 INFO File uploaded:report.pdf
+2025-04-03 16:37:13 INFO User logges in : user123
+2025-04-03 16:37:15 ERROR Databse connection failed:timeout
+2025-04-03 16:37:17 ERROR High memory usage detected
+2025-04-03 16:37:19 CRITICAL Databse connection failed:timeout
+2025-04-03 16:37:21 INFO File uploaded:report.pdf
+2025-04-03 16:37:23 INFO User logged out:user456
+2025-04-03 16:37:25 WARNING Server crash detected:restarting
+2025-04-03 16:37:27 INFO Databse connection failed:timeout
+2025-04-03 16:37:29 INFO Server crash detected:restarting
+2025-04-03 16:37:31 ERROR Server crash detected:restarting
+2025-04-03 16:37:33 WARNING User logges in : user123
+2025-04-03 16:37:35 WARNING Databse connection failed:timeout
+2025-04-03 16:37:37 WARNING Server crash detected:restarting
+2025-04-03 16:37:39 CRITICAL Server crash detected:restarting
+2025-04-03 16:37:41 ERROR Server crash detected:restarting
+2025-04-03 16:37:43 INFO File uploaded:report.pdf
+2025-04-03 16:37:45 ERROR User logges in : user123
+2025-04-03 16:37:47 WARNING High memory usage detected
+2025-04-03 16:37:49 CRITICAL Server crash detected:restarting
+2025-04-03 16:37:51 WARNING User logges in : user123
+2025-04-03 16:37:53 INFO Databse connection failed:timeout
+2025-04-03 16:37:55 INFO File uploaded:report.pdf
+2025-04-03 16:37:57 ERROR Databse connection failed:timeout
+2025-04-03 16:37:59 CRITICAL User logged out:user456
+2025-04-03 16:38:01 CRITICAL Databse connection failed:timeout
+2025-04-03 16:38:03 ERROR Databse connection failed:timeout
+2025-04-03 16:38:05 INFO High memory usage detected
+2025-04-03 16:38:07 INFO Server crash detected:restarting
+2025-04-03 16:38:09 INFO Server crash detected:restarting
+2025-04-03 16:38:11 INFO Databse connection failed:timeout
+2025-04-03 16:38:13 WARNING File uploaded:report.pdf
+2025-04-03 16:38:15 WARNING Databse connection failed:timeout
+2025-04-03 16:38:17 ERROR Databse connection failed:timeout
+2025-04-03 16:38:19 ERROR User logged out:user456
+2025-04-03 16:38:21 WARNING User logged out:user456
+2025-04-03 16:38:23 INFO File uploaded:report.pdf
+2025-04-03 16:38:25 ERROR User logges in : user123
+2025-04-03 16:38:27 CRITICAL User logged out:user456
+2025-04-03 16:38:29 WARNING User logges in : user123
+2025-04-03 16:38:31 INFO User logges in : user123
+2025-04-03 16:38:33 WARNING Server crash detected:restarting
+2025-04-03 16:38:35 CRITICAL User logged out:user456
+2025-04-03 16:38:37 WARNING Server crash detected:restarting
+2025-04-03 16:38:39 WARNING High memory usage detected
+2025-04-03 16:38:41 CRITICAL User logges in : user123
+2025-04-03 16:38:43 CRITICAL File uploaded:report.pdf
+2025-04-03 16:38:45 WARNING High memory usage detected
+2025-04-03 16:38:47 CRITICAL User logged out:user456
+2025-04-03 16:38:49 WARNING Databse connection failed:timeout
+2025-04-03 16:38:51 WARNING High memory usage detected
+2025-04-03 16:38:53 ERROR Databse connection failed:timeout
+2025-04-03 16:38:55 CRITICAL High memory usage detected
+2025-04-03 16:38:57 ERROR Server crash detected:restarting
+2025-04-03 16:38:59 INFO High memory usage detected
+2025-04-03 16:39:01 CRITICAL File uploaded:report.pdf
+2025-04-03 16:39:03 ERROR Databse connection failed:timeout
+2025-04-03 16:39:05 CRITICAL Databse connection failed:timeout
+2025-04-03 16:39:07 INFO Databse connection failed:timeout
+2025-04-03 16:39:09 WARNING File uploaded:report.pdf
+2025-04-03 16:39:11 WARNING User logges in : user123
+2025-04-03 16:39:13 ERROR User logged out:user456
+2025-04-03 16:39:15 WARNING Server crash detected:restarting
+2025-04-03 16:39:17 INFO Databse connection failed:timeout
+2025-04-03 16:39:19 INFO File uploaded:report.pdf
+2025-04-03 16:39:21 INFO Server crash detected:restarting
+2025-04-03 16:39:23 CRITICAL Server crash detected:restarting
+2025-04-03 16:39:25 WARNING Server crash detected:restarting
+2025-04-03 16:39:27 INFO Databse connection failed:timeout
+2025-04-03 16:39:29 WARNING High memory usage detected
+2025-04-03 16:39:31 INFO Databse connection failed:timeout
+2025-04-03 16:39:33 INFO File uploaded:report.pdf
+2025-04-03 16:39:35 CRITICAL User logged out:user456
+2025-04-03 16:39:37 INFO Databse connection failed:timeout
+2025-04-03 16:39:39 CRITICAL User logges in : user123
+2025-04-03 16:39:41 ERROR User logges in : user123
+2025-04-03 16:39:43 CRITICAL High memory usage detected
+2025-04-03 16:39:45 ERROR User logges in : user123
+2025-04-03 16:39:47 WARNING Server crash detected:restarting
+2025-04-03 16:39:49 CRITICAL Server crash detected:restarting
+2025-04-03 16:39:51 INFO Databse connection failed:timeout
+2025-04-03 16:39:53 WARNING User logged out:user456
+2025-04-03 16:39:55 ERROR File uploaded:report.pdf
+2025-04-03 16:39:57 ERROR Server crash detected:restarting
+2025-04-03 16:39:59 INFO File uploaded:report.pdf
+2025-04-03 16:40:01 ERROR User logged out:user456
+2025-04-03 16:40:03 INFO Server crash detected:restarting
+2025-04-03 16:40:05 WARNING Databse connection failed:timeout
+2025-04-03 16:40:07 ERROR User logged out:user456
+2025-04-03 16:40:09 ERROR User logged out:user456
+2025-04-03 16:40:11 WARNING High memory usage detected
+2025-04-03 16:40:13 WARNING User logged out:user456
+2025-04-03 16:40:15 ERROR Databse connection failed:timeout
+2025-04-03 16:40:17 INFO User logged out:user456
+2025-04-03 16:40:19 WARNING Databse connection failed:timeout
+2025-04-03 16:40:21 INFO User logges in : user123
+2025-04-03 16:40:23 INFO File uploaded:report.pdf
+2025-04-03 16:40:25 CRITICAL Server crash detected:restarting
+2025-04-03 16:40:27 INFO Server crash detected:restarting
+2025-04-03 16:40:29 CRITICAL Databse connection failed:timeout
+2025-04-03 16:40:31 INFO User logges in : user123
+2025-04-03 16:40:33 INFO User logges in : user123
+2025-04-03 16:40:35 ERROR User logged out:user456
+2025-04-03 16:40:37 ERROR High memory usage detected
+2025-04-03 16:40:39 WARNING User logged out:user456
+2025-04-03 16:40:41 WARNING File uploaded:report.pdf
+2025-04-03 16:40:43 CRITICAL User logged out:user456
+2025-04-03 16:40:45 CRITICAL User logges in : user123
+2025-04-03 16:40:47 WARNING User logged out:user456
+2025-04-03 16:40:49 CRITICAL Server crash detected:restarting
+2025-04-03 16:40:51 ERROR Server crash detected:restarting
+2025-04-03 16:40:53 INFO User logged out:user456
+2025-04-03 16:40:55 INFO Server crash detected:restarting
+2025-04-03 16:40:57 CRITICAL Databse connection failed:timeout
+2025-04-03 16:40:59 INFO User logges in : user123
+2025-04-03 16:41:01 INFO User logged out:user456
+2025-04-03 16:41:03 WARNING User logged out:user456
+2025-04-03 16:41:05 WARNING User logges in : user123
+2025-04-03 16:41:07 INFO File uploaded:report.pdf
+2025-04-03 16:41:09 INFO Server crash detected:restarting
+2025-04-03 16:41:11 ERROR High memory usage detected
+2025-04-03 16:41:13 WARNING User logged out:user456
+2025-04-03 16:41:15 WARNING File uploaded:report.pdf
+2025-04-03 16:41:17 CRITICAL User logged out:user456
+2025-04-03 16:41:19 INFO Databse connection failed:timeout
+2025-04-03 16:41:21 CRITICAL User logged out:user456
+2025-04-03 16:41:23 WARNING Server crash detected:restarting
+2025-04-03 16:41:25 WARNING Server crash detected:restarting
+2025-04-03 16:41:27 INFO Databse connection failed:timeout
+2025-04-03 16:41:29 WARNING User logged out:user456
+2025-04-03 16:41:31 ERROR Databse connection failed:timeout
+2025-04-03 16:41:33 INFO High memory usage detected
+2025-04-03 16:41:35 INFO User logges in : user123
+2025-04-03 16:41:37 WARNING User logged out:user456
+2025-04-03 16:41:39 WARNING High memory usage detected
+2025-04-03 16:41:41 INFO File uploaded:report.pdf
+2025-04-03 16:41:43 CRITICAL High memory usage detected
+2025-04-03 16:41:45 CRITICAL User logged out:user456
+2025-04-03 16:41:47 WARNING User logges in : user123
+2025-04-03 16:41:49 INFO File uploaded:report.pdf
+2025-04-03 16:41:51 INFO File uploaded:report.pdf
+2025-04-03 16:41:53 ERROR High memory usage detected
+2025-04-03 16:41:55 WARNING User logged out:user456
+2025-04-03 16:41:57 INFO File uploaded:report.pdf
+2025-04-03 16:41:59 CRITICAL Server crash detected:restarting
+2025-04-03 16:42:01 WARNING User logged out:user456
+2025-04-03 16:42:03 ERROR High memory usage detected
+2025-04-03 16:42:05 INFO File uploaded:report.pdf
+2025-04-03 16:42:07 WARNING User logges in : user123
+2025-04-03 16:42:09 ERROR Server crash detected:restarting
+2025-04-03 16:42:11 INFO High memory usage detected
+2025-04-03 16:42:13 ERROR Server crash detected:restarting
+2025-04-03 16:42:15 CRITICAL Server crash detected:restarting
+2025-04-03 16:42:17 INFO File uploaded:report.pdf
+2025-04-03 16:42:19 ERROR Databse connection failed:timeout
+2025-04-03 16:42:21 CRITICAL User logges in : user123
+2025-04-03 16:42:23 CRITICAL File uploaded:report.pdf
+2025-04-03 16:42:25 CRITICAL User logges in : user123
+2025-04-03 16:42:27 WARNING Databse connection failed:timeout
+2025-04-03 16:42:29 CRITICAL Server crash detected:restarting
+2025-04-03 16:42:31 WARNING File uploaded:report.pdf
+2025-04-03 16:42:33 CRITICAL User logged out:user456
+2025-04-03 16:42:35 INFO Server crash detected:restarting
+2025-04-03 16:42:37 CRITICAL File uploaded:report.pdf
+2025-04-03 16:42:39 WARNING Server crash detected:restarting
+2025-04-03 16:42:41 ERROR User logges in : user123
+2025-04-03 16:42:43 ERROR User logged out:user456
+2025-04-03 16:42:45 WARNING File uploaded:report.pdf
+2025-04-03 16:42:47 ERROR Server crash detected:restarting
+2025-04-03 16:42:49 CRITICAL High memory usage detected
+2025-04-03 16:42:51 INFO Server crash detected:restarting
+2025-04-03 16:42:53 ERROR User logged out:user456
+2025-04-03 16:42:55 INFO Databse connection failed:timeout
+2025-04-03 16:42:57 ERROR File uploaded:report.pdf
+2025-04-03 16:42:59 ERROR User logged out:user456
+2025-04-03 16:43:01 INFO High memory usage detected
+2025-04-03 16:43:03 WARNING High memory usage detected
+2025-04-03 16:43:05 ERROR User logged out:user456
+2025-04-03 16:43:07 ERROR Server crash detected:restarting
+2025-04-03 16:43:09 CRITICAL High memory usage detected
+2025-04-03 16:43:11 ERROR High memory usage detected
+2025-04-03 16:43:13 CRITICAL User logges in : user123
+2025-04-03 16:43:15 WARNING User logged out:user456
+2025-04-03 16:43:17 ERROR User logges in : user123
+2025-04-03 16:43:19 INFO Server crash detected:restarting
+2025-04-03 16:43:21 ERROR File uploaded:report.pdf
+2025-04-03 16:43:23 CRITICAL User logges in : user123
+2025-04-03 16:43:25 ERROR Server crash detected:restarting
+2025-04-03 16:43:27 INFO User logged out:user456
+2025-04-03 16:43:29 CRITICAL Databse connection failed:timeout
+2025-04-03 16:43:31 INFO File uploaded:report.pdf
+2025-04-03 16:43:33 WARNING File uploaded:report.pdf
+2025-04-03 16:43:35 WARNING Databse connection failed:timeout
+2025-04-03 16:43:37 CRITICAL High memory usage detected
+2025-04-03 16:43:39 INFO Server crash detected:restarting
+2025-04-03 16:43:41 CRITICAL High memory usage detected
+2025-04-03 16:43:43 ERROR High memory usage detected
+2025-04-03 16:43:45 WARNING High memory usage detected
+2025-04-03 16:43:47 WARNING User logged out:user456
+2025-04-03 16:43:49 INFO User logges in : user123
+2025-04-03 16:43:51 ERROR File uploaded:report.pdf
+2025-04-03 16:43:53 CRITICAL Server crash detected:restarting
+2025-04-03 16:43:55 INFO User logged out:user456
+2025-04-03 16:43:57 WARNING File uploaded:report.pdf
+2025-04-03 16:43:59 CRITICAL User logged out:user456
+2025-04-03 16:44:01 INFO File uploaded:report.pdf
+2025-04-03 16:44:03 ERROR User logged out:user456
+2025-04-03 16:44:05 INFO User logged out:user456
+2025-04-03 16:44:07 CRITICAL Server crash detected:restarting
+2025-04-03 16:44:09 INFO User logges in : user123
+2025-04-03 16:44:11 WARNING User logges in : user123
+2025-04-03 16:44:13 CRITICAL User logged out:user456
+2025-04-03 16:44:15 WARNING User logges in : user123
+2025-04-03 16:44:17 CRITICAL Server crash detected:restarting
+2025-04-03 16:44:19 CRITICAL User logged out:user456
+2025-04-03 16:44:21 CRITICAL Server crash detected:restarting
+2025-04-03 16:44:23 CRITICAL User logges in : user123
+2025-04-03 16:44:25 INFO Databse connection failed:timeout
+2025-04-03 16:44:27 CRITICAL Server crash detected:restarting
+2025-04-03 16:44:29 WARNING Server crash detected:restarting
+2025-04-03 16:44:31 WARNING High memory usage detected
+2025-04-03 16:44:33 ERROR User logges in : user123
+2025-04-03 16:44:35 INFO User logged out:user456
+2025-04-03 16:44:37 WARNING User logges in : user123
+2025-04-03 16:44:39 WARNING Databse connection failed:timeout
+2025-04-03 16:44:41 ERROR Server crash detected:restarting
+2025-04-03 16:44:43 CRITICAL File uploaded:report.pdf
+2025-04-03 16:44:45 INFO File uploaded:report.pdf
+2025-04-03 16:44:47 WARNING User logged out:user456
+2025-04-03 16:44:49 WARNING User logges in : user123
+2025-04-03 16:44:51 CRITICAL User logged out:user456
+2025-04-03 16:44:53 WARNING File uploaded:report.pdf
+2025-04-03 16:44:55 WARNING User logged out:user456
+2025-04-03 16:44:57 INFO File uploaded:report.pdf
+2025-04-03 16:44:59 INFO High memory usage detected
+2025-04-03 16:45:01 INFO User logged out:user456
+2025-04-03 16:45:03 INFO High memory usage detected
+2025-04-03 16:45:05 ERROR User logged out:user456
+2025-04-03 16:45:07 WARNING User logges in : user123
+2025-04-03 16:45:09 WARNING High memory usage detected
+2025-04-03 16:45:11 WARNING User logged out:user456
+2025-04-03 16:45:13 INFO Databse connection failed:timeout
+2025-04-03 16:45:15 ERROR File uploaded:report.pdf
+2025-04-03 16:45:17 INFO User logged out:user456
+2025-04-03 16:45:19 CRITICAL File uploaded:report.pdf
+2025-04-03 16:45:21 CRITICAL User logged out:user456
+2025-04-03 16:45:23 CRITICAL Server crash detected:restarting
+2025-04-03 16:45:25 CRITICAL High memory usage detected
+2025-04-03 16:45:27 INFO Databse connection failed:timeout
+2025-04-03 16:45:29 CRITICAL High memory usage detected
+2025-04-03 16:45:31 ERROR User logges in : user123
+2025-04-03 16:45:33 CRITICAL Server crash detected:restarting
+2025-04-03 16:45:35 INFO Server crash detected:restarting
+2025-04-03 16:45:37 WARNING User logged out:user456
+2025-04-03 16:45:39 WARNING User logged out:user456
+2025-04-03 16:45:41 WARNING File uploaded:report.pdf
+2025-04-03 16:45:43 INFO Databse connection failed:timeout
+2025-04-03 16:45:45 CRITICAL Databse connection failed:timeout
+2025-04-03 16:45:47 CRITICAL User logged out:user456
+2025-04-03 16:45:49 INFO User logged out:user456
+2025-04-03 16:45:51 CRITICAL User logged out:user456
+2025-04-03 16:45:53 WARNING User logges in : user123
+2025-04-03 16:45:55 ERROR High memory usage detected
+2025-04-03 16:45:57 WARNING High memory usage detected
+2025-04-03 16:45:59 CRITICAL Server crash detected:restarting
+2025-04-03 16:46:01 CRITICAL High memory usage detected
+2025-04-03 16:46:03 WARNING File uploaded:report.pdf
+2025-04-03 16:46:05 WARNING File uploaded:report.pdf
+2025-04-03 16:46:07 INFO User logges in : user123
+2025-04-03 16:46:09 ERROR User logges in : user123
+2025-04-03 16:46:11 INFO Server crash detected:restarting
+2025-04-03 16:46:13 WARNING File uploaded:report.pdf
+2025-04-03 16:46:15 WARNING Server crash detected:restarting
+2025-04-03 16:46:17 WARNING File uploaded:report.pdf
+2025-04-03 16:46:19 WARNING User logged out:user456
+2025-04-03 16:46:21 WARNING File uploaded:report.pdf
+2025-04-03 16:46:23 ERROR Databse connection failed:timeout
+2025-04-03 16:46:25 CRITICAL Server crash detected:restarting
+2025-04-03 16:46:27 INFO Databse connection failed:timeout
+2025-04-03 16:46:29 CRITICAL User logged out:user456
+2025-04-03 16:46:31 WARNING File uploaded:report.pdf
+2025-04-03 16:46:33 WARNING Server crash detected:restarting
+2025-04-03 16:46:35 INFO User logged out:user456
+2025-04-03 16:46:37 INFO Server crash detected:restarting
+2025-04-03 16:46:39 ERROR Databse connection failed:timeout
+2025-04-03 16:46:41 INFO File uploaded:report.pdf
+2025-04-03 16:46:43 CRITICAL High memory usage detected
+2025-04-03 16:46:45 CRITICAL User logged out:user456
+2025-04-03 16:46:47 INFO Server crash detected:restarting
+2025-04-03 16:46:49 INFO High memory usage detected
+2025-04-03 16:46:51 WARNING High memory usage detected
+2025-04-03 16:46:53 CRITICAL Databse connection failed:timeout
+2025-04-03 16:46:55 INFO User logged out:user456
+2025-04-03 16:46:57 INFO Databse connection failed:timeout
+2025-04-03 16:46:59 CRITICAL Server crash detected:restarting
+2025-04-03 16:47:01 INFO Server crash detected:restarting
+2025-04-03 16:47:03 CRITICAL Server crash detected:restarting
+2025-04-03 16:47:05 WARNING High memory usage detected
+2025-04-03 16:47:07 WARNING High memory usage detected
+2025-04-03 16:47:09 INFO User logges in : user123
+2025-04-03 16:47:11 WARNING Databse connection failed:timeout
+2025-04-03 16:47:13 ERROR Databse connection failed:timeout
+2025-04-03 16:47:15 ERROR User logges in : user123
+2025-04-03 16:47:17 CRITICAL Server crash detected:restarting
+2025-04-03 16:47:19 INFO File uploaded:report.pdf
+2025-04-03 16:47:21 CRITICAL User logged out:user456
+2025-04-03 16:47:23 CRITICAL User logged out:user456
+2025-04-03 16:47:25 ERROR User logges in : user123
+2025-04-03 16:47:27 ERROR File uploaded:report.pdf
+2025-04-03 16:47:29 INFO High memory usage detected
+2025-04-03 16:47:31 WARNING Databse connection failed:timeout
+2025-04-03 16:47:33 ERROR File uploaded:report.pdf
+2025-04-03 16:47:35 CRITICAL User logges in : user123
+2025-04-03 16:47:37 INFO Databse connection failed:timeout
+2025-04-03 16:47:39 WARNING User logged out:user456
+2025-04-03 16:47:41 INFO Databse connection failed:timeout
+2025-04-03 16:47:43 ERROR Server crash detected:restarting
+2025-04-03 16:47:45 WARNING Server crash detected:restarting
+2025-04-03 16:47:47 WARNING User logged out:user456
+2025-04-03 16:47:49 CRITICAL User logged out:user456
+2025-04-03 16:47:51 WARNING Databse connection failed:timeout
+2025-04-03 16:47:53 ERROR User logged out:user456
+2025-04-03 16:47:55 CRITICAL User logges in : user123
+2025-04-03 16:47:57 CRITICAL Server crash detected:restarting
+2025-04-03 16:47:59 ERROR User logges in : user123
+2025-04-03 16:48:01 CRITICAL Databse connection failed:timeout
+2025-04-03 16:48:03 ERROR File uploaded:report.pdf
+2025-04-03 16:48:05 ERROR Databse connection failed:timeout
+2025-04-03 16:48:07 INFO High memory usage detected
+2025-04-03 16:48:09 INFO High memory usage detected
+2025-04-03 16:48:11 WARNING User logged out:user456
+2025-04-03 16:48:13 ERROR User logges in : user123
+2025-04-03 16:48:15 CRITICAL High memory usage detected
+2025-04-03 16:48:17 CRITICAL User logged out:user456
+2025-04-03 16:48:19 CRITICAL High memory usage detected
+2025-04-03 16:48:21 WARNING High memory usage detected
+2025-04-03 16:48:23 INFO Databse connection failed:timeout
+2025-04-03 16:48:25 INFO Databse connection failed:timeout
+2025-04-03 16:48:27 ERROR High memory usage detected
+2025-04-03 16:48:29 CRITICAL User logges in : user123
+2025-04-03 16:48:31 WARNING Databse connection failed:timeout
+2025-04-03 16:48:33 CRITICAL Databse connection failed:timeout
+2025-04-03 16:48:35 INFO High memory usage detected
+2025-04-03 16:48:37 INFO Server crash detected:restarting
+2025-04-03 16:48:39 INFO File uploaded:report.pdf
+2025-04-03 16:48:41 CRITICAL User logged out:user456
+2025-04-03 16:48:43 WARNING Databse connection failed:timeout
+2025-04-03 16:48:45 ERROR High memory usage detected
+2025-04-03 16:48:47 ERROR User logged out:user456
+2025-04-03 16:48:49 WARNING Server crash detected:restarting
+2025-04-03 16:48:51 CRITICAL User logges in : user123
+2025-04-03 16:48:53 CRITICAL Databse connection failed:timeout
+2025-04-03 16:48:55 ERROR Databse connection failed:timeout
+2025-04-03 16:48:57 CRITICAL User logged out:user456
+2025-04-03 16:48:59 CRITICAL Server crash detected:restarting
+2025-04-03 16:49:01 CRITICAL Databse connection failed:timeout
+2025-04-03 16:49:03 CRITICAL High memory usage detected
+2025-04-03 16:49:05 ERROR Server crash detected:restarting
+2025-04-03 16:49:07 ERROR User logged out:user456
+2025-04-03 16:49:09 WARNING Databse connection failed:timeout
+2025-04-03 16:49:11 WARNING User logged out:user456
+2025-04-03 16:49:13 CRITICAL Databse connection failed:timeout
+2025-04-03 16:49:15 WARNING Databse connection failed:timeout
+2025-04-03 16:49:17 CRITICAL High memory usage detected
+2025-04-03 16:49:19 WARNING File uploaded:report.pdf
+2025-04-03 16:49:21 WARNING File uploaded:report.pdf
+2025-04-03 16:49:23 CRITICAL User logges in : user123
+2025-04-03 16:49:25 INFO High memory usage detected
+2025-04-03 16:49:27 INFO Databse connection failed:timeout
+2025-04-03 16:49:29 WARNING Databse connection failed:timeout
+2025-04-03 16:49:31 INFO Databse connection failed:timeout
+2025-04-03 16:49:33 CRITICAL File uploaded:report.pdf
+2025-04-03 16:49:35 INFO User logges in : user123
+2025-04-03 16:49:37 INFO User logges in : user123
+2025-04-03 16:49:39 WARNING User logged out:user456
+2025-04-03 16:49:41 ERROR User logged out:user456
+2025-04-03 16:49:43 ERROR User logges in : user123
+2025-04-03 16:49:45 INFO User logges in : user123
+2025-04-03 16:49:47 ERROR User logged out:user456
+2025-04-03 16:49:49 WARNING User logges in : user123
+2025-04-03 16:49:51 CRITICAL User logged out:user456
+2025-04-03 16:49:53 WARNING File uploaded:report.pdf
+2025-04-03 16:49:55 ERROR User logged out:user456
+2025-04-03 16:49:57 CRITICAL User logges in : user123
+2025-04-03 16:49:59 ERROR High memory usage detected
+2025-04-03 16:50:01 WARNING Server crash detected:restarting
+2025-04-03 16:50:03 WARNING User logged out:user456
+2025-04-03 16:50:05 CRITICAL User logged out:user456
+2025-04-03 16:50:07 INFO High memory usage detected
+2025-04-03 16:50:09 ERROR High memory usage detected
+2025-04-03 16:50:11 CRITICAL Databse connection failed:timeout
+2025-04-03 16:50:13 CRITICAL User logges in : user123
+2025-04-03 16:50:15 CRITICAL Databse connection failed:timeout
+2025-04-03 16:50:17 CRITICAL User logged out:user456
+2025-04-03 16:50:19 CRITICAL Server crash detected:restarting
+2025-04-03 16:50:21 CRITICAL High memory usage detected
+2025-04-03 16:50:23 WARNING User logged out:user456
+2025-04-03 16:50:25 WARNING High memory usage detected
+2025-04-03 16:50:27 ERROR File uploaded:report.pdf
+2025-04-03 16:50:29 WARNING File uploaded:report.pdf
+2025-04-03 16:50:31 CRITICAL Databse connection failed:timeout
+2025-04-03 16:50:33 CRITICAL File uploaded:report.pdf
+2025-04-03 16:50:35 INFO File uploaded:report.pdf
+2025-04-03 16:50:37 ERROR Server crash detected:restarting
+2025-04-03 16:50:39 ERROR Server crash detected:restarting
+2025-04-03 16:50:41 WARNING File uploaded:report.pdf
+2025-04-03 16:50:43 WARNING User logged out:user456
+2025-04-03 16:50:45 ERROR Server crash detected:restarting
+2025-04-03 16:50:47 CRITICAL User logges in : user123
+2025-04-03 16:50:49 INFO User logged out:user456
+2025-04-03 16:50:51 INFO User logged out:user456
+2025-04-03 16:50:53 CRITICAL Server crash detected:restarting
+2025-04-03 16:50:55 ERROR Databse connection failed:timeout
+2025-04-03 16:50:57 WARNING Databse connection failed:timeout
+2025-04-03 16:50:59 WARNING Server crash detected:restarting
+2025-04-03 16:51:01 WARNING Databse connection failed:timeout
+2025-04-03 16:51:03 INFO User logged out:user456
+2025-04-03 16:51:05 INFO User logges in : user123
+2025-04-03 16:51:07 ERROR Databse connection failed:timeout
+2025-04-03 16:51:09 ERROR User logges in : user123
+2025-04-03 16:51:11 WARNING Server crash detected:restarting
+2025-04-03 16:51:13 ERROR User logges in : user123
+2025-04-03 16:51:15 WARNING Server crash detected:restarting
+2025-04-03 16:51:17 CRITICAL High memory usage detected
+2025-04-03 16:51:19 ERROR User logges in : user123
+2025-04-03 16:51:21 ERROR File uploaded:report.pdf
+2025-04-03 16:51:23 WARNING Server crash detected:restarting
+2025-04-03 16:51:25 INFO User logges in : user123
+2025-04-03 16:51:27 CRITICAL User logges in : user123
+2025-04-03 16:51:29 CRITICAL Server crash detected:restarting
+2025-04-03 16:51:31 CRITICAL File uploaded:report.pdf
+2025-04-03 16:51:33 WARNING User logges in : user123
+2025-04-03 16:51:35 CRITICAL User logges in : user123
+2025-04-03 16:51:37 INFO Databse connection failed:timeout
+2025-04-03 16:51:39 ERROR Server crash detected:restarting
+2025-04-03 16:51:41 ERROR Databse connection failed:timeout
+2025-04-03 16:51:43 CRITICAL High memory usage detected
+2025-04-03 16:51:45 ERROR User logges in : user123
+2025-04-03 16:51:47 WARNING User logges in : user123
+2025-04-03 16:51:49 WARNING File uploaded:report.pdf
+2025-04-03 16:51:51 WARNING File uploaded:report.pdf
+2025-04-03 16:51:53 ERROR User logges in : user123
+2025-04-03 16:51:55 ERROR User logges in : user123
+2025-04-03 16:51:57 WARNING Server crash detected:restarting
+2025-04-03 16:51:59 WARNING User logges in : user123
+2025-04-03 16:52:01 ERROR User logges in : user123
+2025-04-03 16:52:03 CRITICAL High memory usage detected
+2025-04-03 16:52:05 CRITICAL User logges in : user123
+2025-04-03 16:52:07 ERROR User logged out:user456
+2025-04-03 16:52:09 ERROR Databse connection failed:timeout
+2025-04-03 16:52:11 CRITICAL File uploaded:report.pdf
+2025-04-03 16:52:13 INFO File uploaded:report.pdf
+2025-04-03 16:52:15 WARNING User logges in : user123
+2025-04-03 16:52:17 INFO High memory usage detected
+2025-04-03 16:52:19 WARNING File uploaded:report.pdf
+2025-04-03 16:52:21 ERROR User logged out:user456
+2025-04-03 16:52:23 ERROR High memory usage detected
+2025-04-03 16:52:25 INFO High memory usage detected
+2025-04-03 16:52:27 ERROR Server crash detected:restarting
+2025-04-03 16:52:29 ERROR High memory usage detected
+2025-04-03 16:52:31 CRITICAL Server crash detected:restarting
+2025-04-03 16:52:33 WARNING User logged out:user456
+2025-04-03 16:52:35 INFO Databse connection failed:timeout
+2025-04-03 16:52:37 CRITICAL User logged out:user456
+2025-04-03 16:52:39 CRITICAL High memory usage detected
+2025-04-03 16:52:41 ERROR Server crash detected:restarting
+2025-04-03 16:52:43 WARNING Databse connection failed:timeout
+2025-04-03 16:52:45 ERROR Databse connection failed:timeout
+2025-04-03 16:52:47 INFO Databse connection failed:timeout
+2025-04-03 16:52:49 ERROR Server crash detected:restarting
+2025-04-03 16:52:51 CRITICAL High memory usage detected
+2025-04-03 16:52:53 CRITICAL User logged out:user456
+2025-04-03 16:52:55 CRITICAL Databse connection failed:timeout
+2025-04-03 16:52:57 WARNING File uploaded:report.pdf
+2025-04-03 16:52:59 WARNING File uploaded:report.pdf
+2025-04-03 16:53:01 CRITICAL Server crash detected:restarting
+2025-04-03 16:53:03 CRITICAL File uploaded:report.pdf
+2025-04-03 16:53:05 ERROR Databse connection failed:timeout
+2025-04-03 16:53:07 WARNING User logges in : user123
+2025-04-03 16:53:09 ERROR File uploaded:report.pdf
+2025-04-03 16:53:11 WARNING High memory usage detected
+2025-04-03 16:53:13 WARNING Server crash detected:restarting
+2025-04-03 16:53:15 WARNING Server crash detected:restarting
+2025-04-03 16:53:17 WARNING Databse connection failed:timeout
+2025-04-03 16:53:19 WARNING Databse connection failed:timeout
+2025-04-03 16:53:21 WARNING Databse connection failed:timeout
+2025-04-03 16:53:23 INFO User logged out:user456
+2025-04-03 16:53:25 WARNING Server crash detected:restarting
+2025-04-03 16:53:27 ERROR Server crash detected:restarting
+2025-04-03 16:53:29 INFO File uploaded:report.pdf
+2025-04-03 16:53:31 CRITICAL File uploaded:report.pdf
+2025-04-03 16:53:33 WARNING Server crash detected:restarting
+2025-04-03 16:53:35 WARNING User logges in : user123
+2025-04-03 16:53:37 INFO User logged out:user456
+2025-04-03 16:53:39 INFO File uploaded:report.pdf
+2025-04-03 16:53:41 ERROR User logges in : user123
+2025-04-03 16:53:43 ERROR User logges in : user123
+2025-04-03 16:53:45 WARNING User logged out:user456
+2025-04-03 16:53:47 CRITICAL High memory usage detected
+2025-04-03 16:53:53 INFO User logges in : user123
+2025-04-03 16:53:55 WARNING Databse connection failed:timeout
+2025-04-03 16:53:57 ERROR Databse connection failed:timeout
+2025-04-03 16:53:59 CRITICAL Databse connection failed:timeout
+2025-04-03 16:54:01 CRITICAL Server crash detected:restarting
+2025-04-03 16:54:14 ERROR User logges in : user123
+2025-04-03 16:54:16 INFO High memory usage detected
+2025-04-03 16:54:18 ERROR Server crash detected:restarting
+2025-04-03 16:54:20 ERROR User logged out:user456
+2025-04-03 16:54:22 WARNING User logged out:user456
+2025-04-03 16:54:24 CRITICAL Databse connection failed:timeout
+2025-04-03 16:54:26 CRITICAL Databse connection failed:timeout
